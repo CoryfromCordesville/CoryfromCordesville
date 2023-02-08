@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoryfromCordesville
 - 👀 I’m interested in ...coding reality 
-- 🌱 I’m currently learning Unix, ...C++,Python,Pentesting
+- 🌱 I’m currently learning HTML,CSS,Javascript,Jquery,Python,Pentesting
 - 💞️ I’m looking to collaborate on ...Android,Operating Systems,Games
 - 📫 How to reach me ...coryblaze@gmail.com
 
