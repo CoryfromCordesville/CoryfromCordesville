@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoryfromCordesville
+- 👋 Hi, I’m @CoryFromCordesville
 - 👀 I’m interested in ...coding reality 
 - 🌱 I’m currently learning Java,HTML,CSS,Pentesting
 - 💞️ I’m looking to collaborate on ...Android,Operating Systems,Games
